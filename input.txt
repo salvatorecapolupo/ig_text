@@ -1,0 +1,15 @@
+*Title or opening hook here* — one punchy line.
+
+This is your first paragraph. Keep it focused on one idea.
+Wrap *key words* in asterisks to highlight them in the slide.
+
+This is your second paragraph. Each blank line starts a new paragraph.
+The script will *automatically* decide how many fit per slide.
+
+Short paragraphs work great for *impact*.
+
+Longer ones are fine too — the layout adapts.
+Just avoid walls of text: *one idea per paragraph* is the rule.
+
+End with something that lands. A question. A statement.
+*Make the last slide count.*
